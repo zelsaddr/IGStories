@@ -19,5 +19,5 @@ def reff():
         else:
             print("Failed to send")
 
-for _ in range(int(20)):
+for _ in range(int(10)):
     Thread(target=reff).start()
