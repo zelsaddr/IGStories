@@ -1,5 +1,5 @@
 #Set 
-git clone <url>
-cd IGStories/
-pip install -r requirements.txt
-py run.py
+git clone <url> <br>
+cd IGStories/ <br>
+pip install -r requirements.txt <br>
+py run.py 
